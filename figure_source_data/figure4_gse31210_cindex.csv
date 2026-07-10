@@ -1,0 +1,3 @@
+"model","apparent_cindex","optimism_mean","optimism_adjusted_cindex","bootstrap_runs"
+"clinical_baseline",0.693250245063717,0.0191118961879133,0.674138348875803,200
+"clinical_plus_axis",0.702702702702703,0.022167168077569,0.680535534625134,200

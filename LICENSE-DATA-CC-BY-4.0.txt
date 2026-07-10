@@ -1,0 +1,9 @@
+Except for the code files covered by LICENSE-CODE-MIT.txt, the derived tables,
+figure source data, rendered figures, and documentation in this package are
+made available under the Creative Commons Attribution 4.0 International License.
+
+License text: https://creativecommons.org/licenses/by/4.0/
+
+Attribution should cite the associated study and this versioned reproducibility
+record. This package does not relicense the underlying TCGA, GEO, or Human
+Protein Atlas resources; users must comply with the source-resource terms.

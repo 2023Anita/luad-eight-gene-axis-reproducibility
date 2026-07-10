@@ -1,0 +1,42 @@
+{
+  "resource_type": "dataset",
+  "title": "Reproducibility materials for an eight-gene hypoxia/proliferation-immune activation expression axis study in lung adenocarcinoma",
+  "description": "Sanitized reproducibility materials for a public multi-cohort lung adenocarcinoma transcriptomic study. The package contains analysis scripts, derived result tables, probe mappings, figure source data, rendered figures, and environment documentation. It excludes raw GEO matrices, controlled-access content, patient-identifying information, manuscript-submission files, and credentials.",
+  "access": "open",
+  "license_for_derived_materials": "CC-BY-4.0",
+  "license_for_code": "MIT",
+  "keywords": [
+    "lung adenocarcinoma",
+    "survival analysis",
+    "transcriptomics",
+    "hypoxia",
+    "immune microenvironment",
+    "reproducible research"
+  ],
+  "creators": [
+    {
+      "name": "Cao, Xiangming",
+      "affiliation": "Department of Oncology, The Affiliated Jiangyin Hospital of Nantong University, Wuxi, China"
+    },
+    {
+      "name": "Zhang, Xiaoxi",
+      "affiliation": "Ansteel Group General Hospital, Anshan, China"
+    },
+    {
+      "name": "Wang, Shaonan",
+      "affiliation": "Taizhou People's Hospital Affiliated to Nanjing Medical University, Taizhou, China"
+    },
+    {
+      "name": "Yin, Lixin",
+      "affiliation": "Jiangyin People's Hospital, Jiangyin, China"
+    }
+  ],
+  "related_resources": [
+    "TCGA-LUAD",
+    "GSE72094",
+    "GSE31210",
+    "GSE68465",
+    "Human Protein Atlas"
+  ],
+  "publication_action": "Do not upload or publish until all authors approve the exact archive, license, and final metadata."
+}

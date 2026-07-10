@@ -1,0 +1,6 @@
+cohort,role,endpoint,eligible_n,events_or_annotation,exact_score
+TCGA-LUAD,discovery,OS,502,182,yes
+GSE72094,primary_external,OS,398,113,yes
+GSE31210,secondary_external,RFS,204,54,yes
+GSE68465,sensitivity,OS,442,236,no_TIGIT
+HPA,annotation,not_applicable,0,annotation_only,not_applicable

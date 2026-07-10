@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="416.16pt" height="225.072pt" viewBox="0 0 416.16 225.072" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-07-10T23:52:06.245453</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 225.072 
+L 416.16 225.072 
+L 416.16 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 24.07392 83.34288 
+L 126.92448 83.34288 
+Q 128.93328 83.34288 128.93328 81.83808 
+L 128.93328 49.93632 
+Q 128.93328 48.43152 126.92448 48.43152 
+L 24.07392 48.43152 
+Q 22.06512 48.43152 22.06512 49.93632 
+L 22.06512 81.83808 
+Q 22.06512 83.34288 24.07392 83.34288 
+z
+" clip-path="url(#p689e42b354)" style="fill: #ffffff; stroke: #3b6ea5; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 156.65472 83.34288 
+L 259.50528 83.34288 
+Q 261.51408 83.34288 261.51408 81.83808 
+L 261.51408 49.93632 
+Q 261.51408 48.43152 259.50528 48.43152 
+L 156.65472 48.43152 
+Q 154.64592 48.43152 154.64592 49.93632 
+L 154.64592 81.83808 
+Q 154.64592 83.34288 156.65472 83.34288 
+z
+" clip-path="url(#p689e42b354)" style="fill: #ffffff; stroke: #2e8b7a; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 285.21792 83.34288 
+L 388.06848 83.34288 
+Q 390.07728 83.34288 390.07728 81.83808 
+L 390.07728 49.93632 
+Q 390.07728 48.43152 388.06848 48.43152 
+L 285.21792 48.43152 
+Q 283.20912 48.43152 283.20912 49.93632 
+L 283.20912 81.83808 
+Q 283.20912 83.34288 285.21792 83.34288 
+z
+" clip-path="url(#p689e42b354)" style="fill: #ffffff; stroke: #c76b32; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 156.65472 167.61168 
+L 259.50528 167.61168 
+Q 261.51408 167.61168 261.51408 166.10688 
+L 261.51408 134.20512 
+Q 261.51408 132.70032 259.50528 132.70032 
+L 156.65472 132.70032 
+Q 154.64592 132.70032 154.64592 134.20512 
+L 154.64592 166.10688 
+Q 154.64592 167.61168 156.65472 167.61168 
+z
+" clip-path="url(#p689e42b354)" style="fill: #ffffff; stroke: #7a7a7a; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 285.21792 167.61168 
+L 388.06848 167.61168 
+Q 390.07728 167.61168 390.07728 166.10688 
+L 390.07728 134.20512 
+Q 390.07728 132.70032 388.06848 132.70032 
+L 285.21792 132.70032 
+Q 283.20912 132.70032 283.20912 134.20512 
+L 283.20912 166.10688 
+Q 283.20912 167.61168 285.21792 167.61168 
+z
+" clip-path="url(#p689e42b354)" style="fill: #ffffff; stroke: #7a7a7a; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial'; text-anchor: start" x="15.2352" y="17.7336" transform="rotate(-0 15.2352 17.7336)">Fixed eight-gene axis and evidence hierarchy</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 7px; font-family: 'Arial'; text-anchor: start" x="15.2352" y="29.772" transform="rotate(-0 15.2352 29.772)">risk = mean z(CA9, MKI67, STAT1, HIF1A)   minus   immune = mean z(CD4, CD8A, CD8B, TIGIT)</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 6px; font-family: 'Arial'; text-anchor: start; fill: #3b6ea5" x="28.09152" y="57.76128" transform="rotate(-0 28.09152 57.76128)">Discovery OS</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial'; text-anchor: start" x="28.09152" y="65.8872" transform="rotate(-0 28.09152 65.8872)">TCGA-LUAD</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 5.7px; font-family: 'Arial'; text-anchor: start" x="28.09152" y="74.01312" transform="rotate(-0 28.09152 74.01312)">OS; n=502; 182</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 6px; font-family: 'Arial'; text-anchor: start; fill: #2e8b7a" x="160.67232" y="57.76128" transform="rotate(-0 160.67232 57.76128)">Primary external OS</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial'; text-anchor: start" x="160.67232" y="65.8872" transform="rotate(-0 160.67232 65.8872)">GSE72094</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 5.7px; font-family: 'Arial'; text-anchor: start" x="160.67232" y="74.01312" transform="rotate(-0 160.67232 74.01312)">OS; n=398; 113</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 6px; font-family: 'Arial'; text-anchor: start; fill: #c76b32" x="289.23552" y="57.76128" transform="rotate(-0 289.23552 57.76128)">Secondary RFS support</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial'; text-anchor: start" x="289.23552" y="65.8872" transform="rotate(-0 289.23552 65.8872)">GSE31210</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 5.7px; font-family: 'Arial'; text-anchor: start" x="289.23552" y="74.01312" transform="rotate(-0 289.23552 74.01312)">RFS; n=204; 54</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 6px; font-family: 'Arial'; text-anchor: start; fill: #7a7a7a" x="160.67232" y="142.03008" transform="rotate(-0 160.67232 142.03008)">Sensitivity only</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial'; text-anchor: start" x="160.67232" y="150.156" transform="rotate(-0 160.67232 150.156)">GSE68465</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 5.7px; font-family: 'Arial'; text-anchor: start" x="160.67232" y="158.28192" transform="rotate(-0 160.67232 158.28192)">OS; n=442; 236</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 6px; font-family: 'Arial'; text-anchor: start; fill: #7a7a7a" x="289.23552" y="142.03008" transform="rotate(-0 289.23552 142.03008)">Annotation only</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 7px; font-family: 'Arial'; text-anchor: start" x="289.23552" y="150.156" transform="rotate(-0 289.23552 150.156)">HPA</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 5.7px; font-family: 'Arial'; text-anchor: start" x="289.23552" y="158.28192" transform="rotate(-0 289.23552 158.28192)">Annotation resource</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 129.729444 65.8872 
+Q 141.790667 65.8872 152.84566 65.8872 
+" style="fill: none; stroke: #7a7a7a; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 150.04566 64.4872 
+L 152.84566 65.8872 
+L 150.04566 67.2872 
+" style="fill: none; stroke: #7a7a7a; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 262.306811 65.8872 
+Q 272.360744 65.8872 281.408447 65.8872 
+" style="fill: none; stroke: #7a7a7a; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 278.608447 64.4872 
+L 281.408447 65.8872 
+L 278.608447 67.2872 
+" style="fill: none; stroke: #7a7a7a; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 89.374927 83.269091 
+Q 143.799661 108.022173 197.308448 132.358671 
+" style="fill: none; stroke: #7a7a7a; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 195.339286 129.925073 
+L 197.308448 132.358671 
+L 194.180072 132.473842 
+" style="fill: none; stroke: #7a7a7a; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 261.939724 83.593858 
+Q 296.466176 108.020876 330.171192 131.866738 
+" style="fill: none; stroke: #7a7a7a; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 328.693992 129.106688 
+L 330.171192 131.866738 
+L 327.076831 131.392468 
+" style="fill: none; stroke: #7a7a7a; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 6.5px; font-family: 'Arial'; text-anchor: start" x="23.2704" y="202.824" transform="rotate(-0 23.2704 202.824)">Exact-score cohorts use the same genes, signs, and equal weights. OS and RFS are reported separately.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p689e42b354">
+   <rect x="7.2" y="7.2" width="401.76" height="210.672"/>
+  </clipPath>
+ </defs>
+</svg>
