@@ -12,7 +12,7 @@ This versioned package contains sanitized reproducibility materials for a public
 
 ## Release Identifiers
 
-- GitHub repository URL: pending initial public release.
+- GitHub repository URL: https://github.com/2023Anita/luad-eight-gene-axis-reproducibility
 - Zenodo version DOI: pending initial archive publication.
 - License: code is MIT; derived tables, figure source data, figures, and documentation are CC BY 4.0.
 

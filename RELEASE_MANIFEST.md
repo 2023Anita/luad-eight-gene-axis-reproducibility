@@ -11,6 +11,7 @@
 | `figure_qa.md` and `rendering_environment.md` | Export, visual-QA, provenance, and Python environment records | Documentation only |
 | `zenodo_metadata_draft.json` | Draft metadata for a future persistent record | Not uploaded; no DOI |
 | `LICENSE-CODE-MIT.txt` and `LICENSE-DATA-CC-BY-4.0.txt` | Code and derived-material license notices | Reuse terms |
+| `CITATION.cff` | Citation metadata for the public GitHub repository | Citation support |
 
 ## Explicitly Excluded
 

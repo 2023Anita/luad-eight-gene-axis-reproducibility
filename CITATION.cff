@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the associated study and this repository."
+title: "Reproducibility materials for an eight-gene hypoxia/proliferation-immune activation expression axis study in lung adenocarcinoma"
+type: dataset
+authors:
+  - family-names: Cao
+    given-names: Xiangming
+    affiliation: "Department of Oncology, The Affiliated Jiangyin Hospital of Nantong University, Wuxi, China"
+  - family-names: Zhang
+    given-names: Xiaoxi
+    affiliation: "Ansteel Group General Hospital, Anshan, China"
+  - family-names: Wang
+    given-names: Shaonan
+    affiliation: "Taizhou People's Hospital Affiliated to Nanjing Medical University, Taizhou, China"
+  - family-names: Yin
+    given-names: Lixin
+    affiliation: "Jiangyin People's Hospital, Jiangyin, China"
+date-released: 2026-07-11
+repository-code: "https://github.com/2023Anita/luad-eight-gene-axis-reproducibility"
