@@ -1,7 +1,7 @@
 {
   "resource_type": "dataset",
   "title": "Reproducibility materials for an eight-gene hypoxia/proliferation-immune activation expression axis study in lung adenocarcinoma",
-  "description": "Sanitized reproducibility materials for a public multi-cohort lung adenocarcinoma transcriptomic study. The package contains analysis scripts, derived result tables, probe mappings, figure source data, rendered figures, and environment documentation. It excludes raw GEO matrices, controlled-access content, patient-identifying information, manuscript-submission files, and credentials.",
+  "description": "Sanitized reproducibility materials for a public multi-cohort lung adenocarcinoma transcriptomic study. The package contains the complete TCGA-LUAD discovery workflow, the 28-gene retained/not-retained provenance record, locked-score external-cohort analyses, derived result tables, probe mappings, figure source data, rendered figures, clean-run verification, and environment documentation. It excludes raw public source matrices, controlled-access content, patient-identifying information, manuscript-submission files, and credentials.",
   "access": "open",
   "license_for_derived_materials": "CC-BY-4.0",
   "license_for_code": "MIT",
@@ -38,5 +38,5 @@
     "GSE68465",
     "Human Protein Atlas"
   ],
-  "publication_action": "Do not upload or publish until all authors approve the exact archive, license, and final metadata."
+  "publication_action": "Draft metadata only. No Zenodo deposit or DOI has been created; publication requires a separate author decision."
 }

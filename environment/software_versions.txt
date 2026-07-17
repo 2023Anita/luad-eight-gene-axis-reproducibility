@@ -1,0 +1,9 @@
+Verification environment (17 July 2026)
+
+Python 3.13.5
+R 4.5.1
+R package survival 3.8-3
+
+The Python discovery scripts use only the standard library. The formal Cox,
+Kaplan-Meier, log-rank, and proportional-hazards workflow requires R and the
+survival package.

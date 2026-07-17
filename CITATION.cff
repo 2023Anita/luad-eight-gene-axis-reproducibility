@@ -15,5 +15,6 @@ authors:
   - family-names: Yin
     given-names: Lixin
     affiliation: "Jiangyin People's Hospital, Jiangyin, China"
-date-released: 2026-07-11
+version: 1.1.0
+date-released: 2026-07-17
 repository-code: "https://github.com/2023Anita/luad-eight-gene-axis-reproducibility"
